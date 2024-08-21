@@ -37,6 +37,6 @@ python src/log_uploader.py
 
 ## Testing
 ```
-PYTHONPATH=src
+export PYTHONPATH=src
 pytest test/test.py
 ```
